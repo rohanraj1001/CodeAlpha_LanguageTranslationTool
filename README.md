@@ -1,2 +1,7 @@
-# CodeAlpha_LanguageTranslationTool
-A web app built with Streamlit that translates text between languages using Google Translate API. Features easy language selection, instant translation display, and optional text-to-speech for improved usability. Easy to setup and customize.
+# CodeAlpha Language Translation Tool
+- Enter text, select source/target language, and translate.
+- Audio playback supported.
+## Setup:
+pip install -r requirements.txt
+## Run:
+python -m streamlit run app.py
